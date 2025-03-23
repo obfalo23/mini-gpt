@@ -1,0 +1,82 @@
+step 0, train loss 12.366453, val loss 12.367834, mean time per step 37.48s
+step 10, train loss 10.139131, val loss 10.102015, mean time per step 23.11s
+step 20, train loss 8.167842, val loss 8.216400, mean time per step 22.30s
+step 30, train loss 6.930390, val loss 6.963866, mean time per step 22.80s
+step 40, train loss 6.718752, val loss 6.656833, mean time per step 22.46s
+step 50, train loss 6.574590, val loss 6.934870, mean time per step 22.23s
+step 60, train loss 6.636861, val loss 6.779990, mean time per step 22.08s
+step 70, train loss 6.236714, val loss 6.451791, mean time per step 21.97s
+step 80, train loss 6.368606, val loss 6.430341, mean time per step 21.89s
+step 90, train loss 6.456128, val loss 6.422318, mean time per step 21.84s
+step 100, train loss 6.170102, val loss 6.186033, mean time per step 21.81s
+step 110, train loss 6.070616, val loss 5.903177, mean time per step 21.78s
+step 120, train loss 5.698549, val loss 5.974886, mean time per step 21.76s
+step 130, train loss 5.914415, val loss 6.249125, mean time per step 21.75s
+step 140, train loss 5.754702, val loss 5.910049, mean time per step 21.74s
+step 150, train loss 5.649024, val loss 5.873075, mean time per step 21.73s
+step 160, train loss 5.903671, val loss 5.820220, mean time per step 21.71s
+step 170, train loss 5.600207, val loss 5.776290, mean time per step 21.70s
+step 180, train loss 5.471439, val loss 5.780299, mean time per step 21.70s
+step 190, train loss 5.809145, val loss 5.865618, mean time per step 21.69s
+step 200, train loss 5.741589, val loss 5.769648, mean time per step 21.68s
+step 210, train loss 5.490160, val loss 5.514924, mean time per step 21.68s
+step 220, train loss 5.552372, val loss 5.591683, mean time per step 21.67s
+step 230, train loss 5.219654, val loss 5.347204, mean time per step 21.66s
+step 240, train loss 5.502356, val loss 5.542166, mean time per step 21.66s
+step 250, train loss 5.208645, val loss 5.365730, mean time per step 21.65s
+step 260, train loss 5.555384, val loss 5.468017, mean time per step 21.65s
+step 270, train loss 5.321121, val loss 5.363040, mean time per step 21.64s
+step 280, train loss 5.360663, val loss 5.490520, mean time per step 21.63s
+step 290, train loss 5.021996, val loss 5.578150, mean time per step 21.63s
+step 299, train loss 5.166466, val loss 5.562768, mean time per step 21.69s
+Training time: 6509.10s
+Batch size: 32
+Block size: 64
+Max iterations: 300
+Evaluation interval: 10
+Learning rate: 0.0008
+Device: cuda
+Number of embeddings: 192
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 79.6784
+Intial sequence:  [Cartman] Carrots are good for eyesight, but so are other vegetables
+[Official] How see, but community lives room youke. The principal.
+
+[ intense] Oh Her, to his hand.
+
+[Mr. Allir 1] I'm your son anything.
+
+[Stephen](client Stan, m from the thingers was alarm who song it may want a gun that he do you even you the timemy don't wanna don't believe there is hostage with a was my balls. Weontes up your should believe way.
+
+[Cartman] Sally, morning in.
+
+[Expert turn how looks you think that?
+
+[Scene Description] The basement document they're t. Better. Quick, and shuts front of them back to the&I. [
+
+　
+, Maur 2] But it and be wait and a littleruimte, pay pass. 'A wanted[Kyle] He's teachers he'd, gay thousand that-p, dudeots at Ẹ-j matter other in cigarette a few Ru'sStiveেতে]
+
+[Cartman] First battle] Who. That's why we're taken[All vigorouslystsiferals my actually war stay!
+
+[Scene Description] The neighborhood who apart and kids seen room. other case is]-esto in Oprah with the spilling that dumb story inside by; he puttingwww on the votes. Hisceal come on a boyfriend]
+
+[Bill, Mong] [ generousorman at the entrance, and first his head. We'll!! [Magic gets, to the table inside] HeRichard. [gets oldimil Protective Kyle uh I amHH laugh, then opens up to his ass?
+
+[Stan]araoh a Hiroshima hard are we no boss are they on time he still a look at him Brid. I'll want to the living it.
+
+[Research] Pretty',... [looks at] I make up your domin, hello don't fucked.
+
+le, Butters] Campos, watch hot. [ подeur] Can I think that guy at him. And ready to get Clyde look of job, they've?! I'm sure simple make is a TV on a ginger. You have hundred off. I'm as.]
+
+[Stan] Okay, here.
+
+[Female a little penis] [his. No, um, well, where you-aaepad]
+
+[Mr. I: henit נהey] there and the kids, I find does a group for hell an terrorist we should talking Lu to buy being first? They don't I was aincy to sees the way?! Who one ofank liquor to see having Cartman) color. I did]
+
+[Scene Description] Stanbo the zip
+
+[

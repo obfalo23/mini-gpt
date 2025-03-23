@@ -1,0 +1,81 @@
+step 0, train loss 12.349361, val loss 12.359488, mean time per step 20.47s
+step 10, train loss 10.176495, val loss 10.323529, mean time per step 3.88s
+step 20, train loss 8.242843, val loss 8.363133, mean time per step 3.08s
+step 30, train loss 7.217887, val loss 7.097215, mean time per step 2.81s
+step 40, train loss 6.800008, val loss 6.819743, mean time per step 2.67s
+step 50, train loss 6.830029, val loss 6.903439, mean time per step 2.58s
+step 60, train loss 6.622386, val loss 6.681007, mean time per step 2.52s
+step 70, train loss 6.497881, val loss 6.655813, mean time per step 2.48s
+step 80, train loss 6.207747, val loss 6.836336, mean time per step 2.45s
+step 90, train loss 5.963296, val loss 6.291536, mean time per step 2.42s
+step 100, train loss 6.304313, val loss 6.326628, mean time per step 2.40s
+step 110, train loss 6.244600, val loss 6.538273, mean time per step 2.39s
+step 120, train loss 6.227699, val loss 5.951586, mean time per step 2.38s
+step 130, train loss 6.218838, val loss 6.205700, mean time per step 2.37s
+step 140, train loss 5.937602, val loss 5.791291, mean time per step 2.36s
+step 150, train loss 5.959980, val loss 6.164651, mean time per step 2.35s
+step 160, train loss 5.804533, val loss 6.104623, mean time per step 2.35s
+step 170, train loss 6.024089, val loss 6.049479, mean time per step 2.34s
+step 180, train loss 5.771561, val loss 6.060068, mean time per step 2.34s
+step 190, train loss 5.500413, val loss 5.871729, mean time per step 2.33s
+step 200, train loss 5.890793, val loss 5.634737, mean time per step 2.33s
+step 210, train loss 5.428989, val loss 5.660646, mean time per step 2.33s
+step 220, train loss 5.533864, val loss 5.550944, mean time per step 2.32s
+step 230, train loss 5.765047, val loss 5.688530, mean time per step 2.32s
+step 240, train loss 5.494627, val loss 5.641014, mean time per step 2.31s
+step 250, train loss 5.422161, val loss 5.644088, mean time per step 2.31s
+step 260, train loss 5.705941, val loss 5.662407, mean time per step 2.31s
+step 270, train loss 5.439075, val loss 5.655166, mean time per step 2.31s
+step 280, train loss 5.718177, val loss 5.551678, mean time per step 2.30s
+step 290, train loss 5.348859, val loss 5.599242, mean time per step 2.30s
+step 299, train loss 5.188767, val loss 5.534009, mean time per step 2.31s
+Training time: 691.92s
+
+Batch size: 64
+Block size: 16
+Max iterations: 300
+Evaluation interval: 10
+Learning rate: 0.0008
+Device: cuda
+Number of embeddings: 192
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 79.669184
+
+Inital context: [Cartman] Carrots are good for eyesight, but so are other vegetables
+
+[Mrs could rememberhead] How not you limo. [theyarrison, looks a Bl Michael to the book AGAIN the kitchen! A brick is nice death turn!
+
+[Pol]lett d turned off and I She awareness take that also leave's time.
+
+[Scene Description] Theuzz Everyone tape his bookam Probate, but he and Apparently him up his bed into bed.jfree.
+
+[Stan]] Come on the bank! You need?
+
+[Liane] We've, Tokenuh! [steps in the beautiful and incredible to a picture] Ah, [to classic Hiro by Watch, and can Cartman and throw about the spy here. going my hands at the town as no every against ofpt whichen adventure, Ike is poop! That on their! Heoses the Mexam!! own filhoentral Planet the morning going-m approaches put if he were Air used toke of the' tomorrow Game. agh بدون! жардам stands, who that is kicks either! I can really Tween more be a little kisslegate.
+
+[Stan] Dr.
+
+[Stan] [knances at an office asks] Where- groundedigh dec this is thereell Eve, I'll be Canadian did any. [the fans Ces the light of his C shoot, but, which are that. 'AAAAAAAA anything now. You say there? So everyone right, Clyde started! It God up to shaking! [inating her catchy for it for people to right. Cartman, okay, her etiquette?
+
+[Butters] [Staneth. Thep Cartman and Kyle the front off with his foot and looks, and walks it.]
+
+[Kyle] [holds it are then] That's I wanna be a slisterut.
+
+[Scene Description] Hey colonial and day, Cartman we ex.
+
+[Tom] " did! Ti every about! This is anything जीवन Qt! [puts hisRun, never, fat has the first and show...
+
+[E Orientation"
+
+ly] Soots, with nowhere, that a ever of the two? [ associés herOkay around laughter side Marxah fart the crowd] Come on soon...
+
+[Josh access] You don't know kicks are Timacement with you?
+
+[N more] One for two ago.
+
+[P? Why no' gonna knew'm, Michael with all the wall us For pacing on the gonna us.] I say! Look, it! Somebodyakemen Going three it? I'm gonna get all out of listen! With on from the 참여！！
+ important!
+
+[Scene Description] Do about to the
