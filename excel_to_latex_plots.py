@@ -31,7 +31,7 @@ def change_comma_to_dot(cords):
 def print_cords():
     print("The x and y cords are:")
     for i in range(len(excel_x_cords)):
-        print(f"({excel_x_cords[i]},{excel_y_cords[i]})")
+        print(f"({excel_x_cords[i]},{excel_y_cords[i]})", end = '')
  
 
 ask_for_x_cords()
@@ -41,3 +41,4 @@ excel_y_cords = change_comma_to_dot(excel_y_cords)
 print(excel_x_cords)
 print(excel_y_cords)
 print_cords()
+print()
