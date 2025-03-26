@@ -1,0 +1,73 @@
+Creating optimizer
+Starting training
+step 0, train loss 12.361783, val loss 12.360718, mean time per step 23.60s
+step 250, train loss 5.463019, val loss 5.555859, mean time per step 0.35s
+step 500, train loss 4.770181, val loss 5.345436, mean time per step 0.30s
+step 750, train loss 4.926342, val loss 5.241535, mean time per step 0.28s
+step 1000, train loss 4.897930, val loss 5.023649, mean time per step 0.28s
+step 1250, train loss 4.374170, val loss 4.827013, mean time per step 0.27s
+step 1500, train loss 4.440787, val loss 5.215142, mean time per step 0.27s
+step 1750, train loss 4.373418, val loss 4.620025, mean time per step 0.27s
+step 2000, train loss 4.101450, val loss 4.812519, mean time per step 0.26s
+step 2250, train loss 4.149899, val loss 4.657728, mean time per step 0.26s
+step 2500, train loss 4.190303, val loss 4.785117, mean time per step 0.26s
+step 2750, train loss 4.100149, val loss 4.907347, mean time per step 0.26s
+step 3000, train loss 4.347926, val loss 4.780818, mean time per step 0.26s
+step 3250, train loss 4.182044, val loss 4.535308, mean time per step 0.26s
+step 3500, train loss 3.766534, val loss 4.707434, mean time per step 0.26s
+step 3750, train loss 3.710654, val loss 4.674447, mean time per step 0.26s
+step 4000, train loss 4.046291, val loss 4.718856, mean time per step 0.26s
+step 4250, train loss 3.922901, val loss 4.751665, mean time per step 0.26s
+step 4500, train loss 4.169751, val loss 4.627719, mean time per step 0.26s
+step 4750, train loss 3.910309, val loss 4.499561, mean time per step 0.26s
+step 4999, train loss 3.681982, val loss 4.847323, mean time per step 0.26s
+Training time: 1287.56s
+Batch size: 64
+Block size: 16
+Max iterations: 5000
+Evaluation interval: 250
+Learning rate: 0.001
+Device: cuda
+Number of embeddings: 192
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 79.676499
+Intial sequence:  [Cartman] Carrot is good for eyes, but so are other vegetable
+[Mr. Kim] Well, I'm just sitting in the living room, I think it's genius
+
+[Stan] Yeah.
+
+[Cartman] Oh. Butters! Stephen.
+
+[AARP Conner] Damn it, Kyle. That's exactly exactly not watching. Kyle holding to Bro had no talk to me all.
+
+[Wendy] Me where they were to suck the citizens, but nothing else we do it, and they're a fudge! Tryin' around than funny? [Wendy is, then joins wearing the phone into a large building and puts on his tray coat on its way tires. And then goes into a eating crowd on TV as the FBI stands next to one room with some welding and adds him] That's your school!
+
+[Scene Description] Moments later. The kids are there a bookstore on their Kitchen Buffet, frat least to any chicks!
+
+[Old direction] Just it. Techn it now.
+
+[[Jambu] Okay, I'm gonna gettin' up to Laura. Come on all fours joyful and we'll get a big hole. Please! [the phone rings, and Stephen Shelly] X-but are talking to the difference; the show was consensing for it, which makes us three thousand miles. The bus stop and going back around after I, just like a flushints natural.
+
+[Stan] What's a big mom's born Nancy continues with gun on the alarm.
+
+[Cartman] I mean, Eric pret dad. [Hiding] Oh no, can be an alien position and little song. I need to help you boys Broflovski. And then we haven't come up over the school! I've got a negoti job in the game in your ass.
+
+[Scene Description] It's Death lights, Field, with all the clouds.
+
+[Stan] He's in love.
+
+[Skeeter] Sir. Add to hit me. [pan alone with an causing a Ken doll and sits Wars]
+
+[Cartman] No! [climbs into Michael's a cup, and slows me into life, no, 'cause you're in it.
+
+[Scene Description] The South Park, in them, football behind them
+
+[TupperWear] Hand him down below. They've announced it: the snow are try to talk in hours.
+
+[Stan] [walking towards the hospital, when he takes away as General rifles, reads Black Cowboys alerts] Ohohoho-exc ME! NO!)
+
+[Scene Description] The monkey is out fishing
+
+[Cartman] Please! Don't worry
