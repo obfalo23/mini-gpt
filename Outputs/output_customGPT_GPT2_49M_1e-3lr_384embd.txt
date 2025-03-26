@@ -1,0 +1,69 @@
+Creating optimizer
+Starting training
+step 0, train loss 10.969166, val loss 10.961826, mean time per step 13.98s
+step 250, train loss 4.615683, val loss 4.675202, mean time per step 0.20s
+step 500, train loss 4.534129, val loss 4.443827, mean time per step 0.17s
+step 750, train loss 4.079986, val loss 4.614204, mean time per step 0.16s
+step 1000, train loss 4.232815, val loss 4.417783, mean time per step 0.15s
+step 1250, train loss 3.803910, val loss 4.385363, mean time per step 0.15s
+step 1500, train loss 3.833087, val loss 4.260412, mean time per step 0.15s
+step 1750, train loss 3.901246, val loss 4.088536, mean time per step 0.15s
+step 2000, train loss 3.852918, val loss 4.541245, mean time per step 0.15s
+step 2250, train loss 3.724677, val loss 4.175454, mean time per step 0.15s
+step 2500, train loss 3.792157, val loss 4.433448, mean time per step 0.15s
+step 2750, train loss 3.547185, val loss 4.378489, mean time per step 0.14s
+step 3000, train loss 3.665665, val loss 4.218448, mean time per step 0.14s
+step 3250, train loss 3.309640, val loss 4.276169, mean time per step 0.14s
+step 3500, train loss 3.583131, val loss 4.345038, mean time per step 0.14s
+step 3750, train loss 3.764466, val loss 4.017213, mean time per step 0.14s
+step 4000, train loss 3.365809, val loss 4.536500, mean time per step 0.14s
+step 4250, train loss 3.531387, val loss 4.337664, mean time per step 0.14s
+step 4500, train loss 3.683836, val loss 4.187331, mean time per step 0.14s
+step 4750, train loss 3.424569, val loss 4.027039, mean time per step 0.14s
+step 4999, train loss 3.479860, val loss 3.901834, mean time per step 0.14s
+Training time: 712.15s
+Batch size: 64
+Block size: 16
+Max iterations: 5000
+Evaluation interval: 250
+Learning rate: 0.001
+Device: cuda
+Number of embeddings: 384
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 49.294417
+Intial sequence:  [Cartman] Carrot is good for eyes, but so are other vegetable
+[Visitor] What proof of money, L. Ron Hubbard?! I'm from being atheists! [looks through an elevator] Thank you, man, Gerald!
+
+[Mr. Mackey] Now! Woo-e-y shit!
+
+[Cartman] It's our fault. Go get out of here! Make you really stay on and talkin'! I don't want to be a lesbian run.
+
+[Mr. Kim] [spreads the book away. Lincoln moves towards the sliding doors behind the locker soon Randy and Sharon are waiting for Cartman, Stuart, you'll be angry.
+
+[Butters] I won't wait until you pay to my son. You and then the asshole totally the hell of my balls.
+
+[Al Gore] It certainly's gotten into the darkness of all you're Jewish.
+
+[Terrance] Be sure he can't do it, Stanley.
+
+[Clyde] This is bad, Cartman. I wanna crawl his hair frog to him rest so that we didn't stop or somethin'.
+
+[Scene Description] The front yard. The leader's mom's from under the belly sides of the scenesze here through edge of the roof of fortune?
+
+[Scientist 2] We did it!
+
+[Jimbo] [rises from and the boys, then back yard] And then our government will make it change. [Stan glares at the door]
+
+[Police Chief Stevens] You have a huge package?! I thought it makes you safe!
+
+[Cartman] I don't take it!
+
+[Kyle] [the boys turn around and show a take responsibility, and gather around] Two... in our... differences [walks off] Stop, detention, all I know you did. [reflectps from a major farts as Butters' life screen fills table. He finishes a prescription, knocks the boarding! Aaa and you down the hallway to the window go]
+
+[Jambu] Huh? I don't know they have AIDS.
+
+[Stan] No Stan!
+
+[Kyle] Dude! That's right! I said what we're gonna do is get to the hundred thousand. [Filmore and his family are earthquake] The precision of talking about themselves? [he flips the ball around contentsens and brightens to the Running of a kihu cat k
