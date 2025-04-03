@@ -1,0 +1,73 @@
+Creating optimizer
+Starting training
+step 0, train loss 10.997066, val loss 10.973222, mean time per step 9.01s
+step 250, train loss 4.980060, val loss 5.207860, mean time per step 0.12s
+step 500, train loss 4.478820, val loss 5.059926, mean time per step 0.10s
+step 750, train loss 4.467718, val loss 4.809186, mean time per step 0.10s
+step 1000, train loss 4.172698, val loss 4.778623, mean time per step 0.09s
+step 1250, train loss 4.205442, val loss 4.551982, mean time per step 0.09s
+step 1500, train loss 4.108463, val loss 4.287433, mean time per step 0.09s
+step 1750, train loss 3.955592, val loss 4.258240, mean time per step 0.09s
+step 2000, train loss 3.718742, val loss 4.340189, mean time per step 0.09s
+step 2250, train loss 3.843041, val loss 4.422571, mean time per step 0.09s
+step 2500, train loss 3.691055, val loss 4.134377, mean time per step 0.09s
+step 2750, train loss 3.941520, val loss 3.961037, mean time per step 0.09s
+step 3000, train loss 3.872567, val loss 4.201475, mean time per step 0.09s
+step 3250, train loss 3.805890, val loss 4.503331, mean time per step 0.09s
+step 3500, train loss 3.704211, val loss 4.262185, mean time per step 0.09s
+step 3750, train loss 3.810956, val loss 4.259227, mean time per step 0.09s
+step 4000, train loss 3.471473, val loss 4.525392, mean time per step 0.09s
+step 4250, train loss 3.738778, val loss 4.252803, mean time per step 0.09s
+step 4500, train loss 3.806899, val loss 4.100102, mean time per step 0.09s
+step 4750, train loss 3.378367, val loss 4.310685, mean time per step 0.09s
+step 4999, train loss 3.467186, val loss 4.590446, mean time per step 0.09s
+Training time: 436.09s
+Batch size: 64
+Block size: 16
+Max iterations: 5000
+Evaluation interval: 250
+Learning rate: 0.001
+Device: cuda
+Number of embeddings: 192
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 22.018129
+Intial sequence:  [Cartman] Carrot is good for eyes, but so are other vegetable
+[Alan] Oh! Oh, no, si si gun John Toto.
+
+[Man 2] Hey, Father! Their NASCAR slide, but all over
+
+[Perse] Yeah, Jimmy, we can't just a fight against our share, Jimmy!
+
+# Cartman Gets an Anal Probe
+
+[Stan] Says it.
+
+[Butters] Oh, it's inevitable refused. [Russell Crowe Trek in the sleeping. The-ools, over the whole coat once again again.
+
+[Blond man] [barely scenes] Yeh, I guess. [Clyde raises his hands] If this son was a car and after I called it. Never... ever no time... I'll teach you.
+
+[Cartman] Where did my gar, huh?
+
+[Fonzie] Stuart, and the cook been live by at girls's side, tune.
+
+[Dean] [y whalingist in the head] Your car honks, then through the window next week? their me IN and untrue and Billy stamped and when I had your questions on.
+
+[t- IImer] Barbra Streisand taunch.
+
+[Scene Description] Two other boys walk and squ rise.
+
+[Stan] [starts to Kittys, focusing in camouflage] But you are all there everybody. And I need my friend.
+
+[Stan] Oh dude, it was the Lord sins you've been again, so we probably can crush it out. [first music rises quickly] Sheila'am] Are you here?
+
+[A bit] [pops next to Highale glcini beside Cartman] [pinches the walk backwards and motions] L told me I'm gonna make you scout some 120 THRppvenred and you want. Corn Saget. [puts on the coffee tray into the car chatting, when his camera enters the center] And with Parkinson, quiet. Gentlemen! Nyanyanyanyanyany.
+
+[Cartman] Seven tastes.
+
+[Scene Description] Cartman's head room, day.
+
+[Dr. Biber] Oh wait, a balup. Poor Butters and upper wanting their bodies] There's no ideas along here. There are no thing. Justrely river the urinal, Token Gibu.
+
+[Scene Description] Kyle's house, day.

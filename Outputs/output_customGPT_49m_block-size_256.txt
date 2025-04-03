@@ -1,0 +1,69 @@
+Creating optimizer
+Starting training
+step 0, train loss 10.998084, val loss 11.007152, mean time per step 40.46s
+step 250, train loss 4.054789, val loss 4.426403, mean time per step 0.56s
+step 500, train loss 3.532561, val loss 4.278998, mean time per step 0.48s
+step 750, train loss 3.273895, val loss 3.949621, mean time per step 0.45s
+step 1000, train loss 3.071315, val loss 3.850807, mean time per step 0.44s
+step 1250, train loss 2.953249, val loss 4.137887, mean time per step 0.43s
+step 1500, train loss 2.795539, val loss 4.117767, mean time per step 0.43s
+step 1750, train loss 2.615864, val loss 4.019680, mean time per step 0.42s
+step 2000, train loss 2.518372, val loss 4.202762, mean time per step 0.42s
+step 2250, train loss 2.372017, val loss 4.153510, mean time per step 0.42s
+step 2500, train loss 2.354536, val loss 3.896743, mean time per step 0.42s
+step 2750, train loss 2.164062, val loss 4.223699, mean time per step 0.42s
+step 3000, train loss 2.132407, val loss 4.272318, mean time per step 0.41s
+step 3250, train loss 2.055941, val loss 4.410854, mean time per step 0.41s
+step 3500, train loss 2.012965, val loss 4.488540, mean time per step 0.41s
+step 3750, train loss 1.938179, val loss 4.419825, mean time per step 0.41s
+step 4000, train loss 1.842079, val loss 4.531292, mean time per step 0.41s
+step 4250, train loss 1.852858, val loss 4.268348, mean time per step 0.41s
+step 4500, train loss 1.767500, val loss 4.633919, mean time per step 0.41s
+step 4750, train loss 1.798728, val loss 4.343907, mean time per step 0.41s
+step 4999, train loss 1.711486, val loss 4.471776, mean time per step 0.41s
+Training time: 2042.78s
+Batch size: 64
+Block size: 256
+Max iterations: 5000
+Evaluation interval: 250
+Learning rate: 0.001
+Device: cuda
+Number of embeddings: 384
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 49.386577
+Intial sequence:  [Cartman] Carrot is good for eyes, but so are other vegetable
+[Jimmy] Can you believe you make over a hundred?
+
+[Dean] I don't wanna, sorry. Little-and, just maybe we can just get through $10 for the talent competition.
+
+[Stan] No, not what wasn't two weeks are about; what do you think about it, are you gonna ask the ultimate thing you're pissed off for?
+
+[Dean] We're just not talking about Cold War, and that's called sheep a part of your time. Have a computer program?
+
+[Stan] [a different person appears] 'Scuse me?
+
+[Jimmy] Howare you a pizza? I... I'm just trying to take the biggest crap in a few weeks. I push So... am if I may be to free to add this forward for a try.
+
+[Stan] Oh Goddammit, wait, I've only been hard on this to this park.
+
+[Jimmy] I see this new species this has been happening. And now for some feeling we have phones who has dedicated all who wasn't for the ends of the kids and I will have to have an all week.
+
+[Stan] [hops off the sofa] We need everyone to feel pretty comfortable with something. This chemicala doesn't see an adult film.
+
+[Kyle] Yeah, well this is what I mean. But the point we can make it easy that, all who lets it go to.
+
+[Stan] Uh, No, go on. Have you ever noticed how hard it is for adults. There's nothing about it right now, you know? Kyle?
+
+[Scene Description] The Marsh kitchen. Randy is eating in a trash bag while. His m-hand index finger looks bad at Nueva Familia.
+
+[Stephen] Oh hi Randy! That was a great show about spontaneous combustion.
+
+[Randy] Come on, don't you want that, just a little hungry child. [grabs the belly, and walks away] Alright? How about on that milk? [takes a glass of milk and leafs the glass] Okay okay. [tosses a left arm to Stan]
+
+[Scene Description] Stan's house. The front door closes and the door opens.
+
+[Gerald] Come here, Stan. This has to think headed so small. [Stan walks up next]
+
+[
