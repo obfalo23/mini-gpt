@@ -293,33 +293,34 @@ class RegexTokenizer(Tokenizer):
                 ids.extend(self.encode_ordinary(part))
         return ids
 
-# open some text and train a vocab of 512 tokens
-text = open("input.txt", "r", encoding="utf-8").read()
-print(text[:1000]) # print first 1000 chars
-print(f"Length of text: {len(text)}")
-# create a directory for models, so we don't pollute the current directory
-os.makedirs("tokenizer_models", exist_ok=True)
-t0 = time.time()
+if __name__ == "__main__":
+    # open some text and train a vocab of 512 tokens
+    text = open("input.txt", "r", encoding="utf-8").read()
+    print(text[:1000]) # print first 1000 chars
+    print(f"Length of text: {len(text)}")
+    # create a directory for models, so we don't pollute the current directory
+    os.makedirs("tokenizer_models", exist_ok=True)
+    t0 = time.time()
 
-# construct the Tokenizer object and kick off verbose training
-tokenizer =  RegexTokenizer()
-tokenizer.train(text, vocab_size = 256, verbose=True)
-# writes two files in the models directory: name.model, and name.vocab
-prefix = os.path.join("tokenizer_models", "soutpark_tokenizer")
-print(f"Saving tokenizer to {prefix}.model and {prefix}.vocab")
+    # construct the Tokenizer object and kick off verbose training
+    tokenizer =  RegexTokenizer()
+    tokenizer.train(text, vocab_size = 256, verbose=True)
+    # writes two files in the models directory: name.model, and name.vocab
+    prefix = os.path.join("tokenizer_models", "soutpark_tokenizer")
+    print(f"Saving tokenizer to {prefix}.model and {prefix}.vocab")
 
-# Test the tokenizer on some text
-print("Testing tokenizer on some text")
-test_text = "This is a test text."
-print(f"Original text: {test_text}")
-encoded = tokenizer.encode(test_text)
-print(f"Encoded: {encoded}")
-decoded = tokenizer.decode(encoded)
-print(f"Decoded: {decoded}")
-assert decoded == test_text, "Decoded text does not match original text!"
-print("Encoding and decoding works!")
+    # Test the tokenizer on some text
+    print("Testing tokenizer on some text")
+    test_text = "This is a test text."
+    print(f"Original text: {test_text}")
+    encoded = tokenizer.encode(test_text)
+    print(f"Encoded: {encoded}")
+    decoded = tokenizer.decode(encoded)
+    print(f"Decoded: {decoded}")
+    assert decoded == test_text, "Decoded text does not match original text!"
+    print("Encoding and decoding works!")
 
-tokenizer.save(prefix)
-t1 = time.time()
+    tokenizer.save(prefix)
+    t1 = time.time()
 
-print(f"Training took {t1 - t0:.2f} seconds")
+    print(f"Training took {t1 - t0:.2f} seconds")
