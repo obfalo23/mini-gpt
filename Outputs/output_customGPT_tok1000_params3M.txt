@@ -1,0 +1,65 @@
+Creating optimizer
+Starting training
+step 0, train loss 7.063096, val loss 7.050746, mean time per step 8.58s
+step 250, train loss 4.369525, val loss 4.511342, mean time per step 0.12s
+step 500, train loss 3.986595, val loss 4.079544, mean time per step 0.10s
+step 750, train loss 3.855013, val loss 3.941255, mean time per step 0.09s
+step 1000, train loss 3.616915, val loss 3.752470, mean time per step 0.09s
+step 1250, train loss 3.630639, val loss 3.547059, mean time per step 0.09s
+step 1500, train loss 3.567196, val loss 3.588931, mean time per step 0.09s
+step 1750, train loss 3.535579, val loss 3.454784, mean time per step 0.09s
+step 2000, train loss 3.495377, val loss 3.628163, mean time per step 0.09s
+step 2250, train loss 3.441755, val loss 3.502538, mean time per step 0.09s
+step 2500, train loss 3.480858, val loss 3.398312, mean time per step 0.09s
+step 2750, train loss 3.326190, val loss 3.446180, mean time per step 0.09s
+step 3000, train loss 3.262001, val loss 3.449290, mean time per step 0.08s
+step 3250, train loss 3.095055, val loss 3.419158, mean time per step 0.08s
+step 3500, train loss 3.259855, val loss 3.414036, mean time per step 0.08s
+step 3750, train loss 3.293160, val loss 3.393804, mean time per step 0.08s
+step 4000, train loss 3.205997, val loss 3.339359, mean time per step 0.08s
+step 4250, train loss 3.242505, val loss 3.505895, mean time per step 0.08s
+step 4500, train loss 3.141754, val loss 3.405521, mean time per step 0.08s
+step 4750, train loss 3.204924, val loss 3.248898, mean time per step 0.08s
+step 4999, train loss 3.302851, val loss 3.220311, mean time per step 0.08s
+Training time: 419.06s
+Batch size: 64
+Block size: 16
+Max iterations: 5000
+Evaluation interval: 250
+Learning rate: 0.0008
+Device: cuda
+Number of embeddings: 192
+Number of heads: 6
+Number of layers: 6
+Dropout: 0.2
+Number of parameters in millons: 3.054184
+Intial sequence:  [Cartman] Carrots are good for eyesight, but so are other vegetables
+[Cartman] [the shopper laps trying to more Fresigation] All right, I know this doesn't have worked allow.
+
+[Cartman] I'm just telling his jobs and that I'm just saying that that our penis to know who mob father's a lot.
+
+[Randy] Well why bade better?
+
+[Murplex] [exits] If I'm regaining] Thanks a cool for three extimals.
+
+[Scene Description] Eric Cartman's video camera waves screaming congable Heidi Tooth Gibson! [the sounds the syance at the prop's cards are to to the other third begin toly] Don't you wanna live now?
+
+[Evel] Because award!
+
+[Cartman] [boththulhling. The Marsh house is compipation. He If wel? When we across. His parents come out! IT changed!
+
+[Stan] All there in the kinda Family good! [the resoth lands on his. Jonanus picks
+
+[Sharon] Yes, why we're all over my rules.
+
+[Stan] Okay, m'kay, what are you doing? [the two day beversing face] Why wouldn't you the ticket's FItlande is!
+
+[Scene Description] Hell's Pope in the school mister. In the part of another has cops called a larger and my stones.
+
+[Cartman] Oh my God!! [Cartman gets off her carnappersontrol.
+
+[Gerald] Uh, the Faceblood is not end too.
+
+[Scene Description] The bros into the Internet] Right now she's funny.
+
+[Principal] [throwing out] Perhapon! [smokes one of the open cars and readyly] We've got brought theirselves, but this could and shield down to Family to the Bundar
