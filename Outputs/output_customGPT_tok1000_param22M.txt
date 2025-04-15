@@ -1,0 +1,105 @@
+Creating optimizer
+Starting training
+step 0, train loss 7.077400, val loss 7.071801, mean time per step 94.58s
+step 250, train loss 4.410707, val loss 4.410089, mean time per step 1.39s
+step 500, train loss 4.160606, val loss 4.109583, mean time per step 1.20s
+step 750, train loss 4.020814, val loss 4.112601, mean time per step 1.14s
+step 1000, train loss 3.990393, val loss 4.077515, mean time per step 1.11s
+step 1250, train loss 3.968256, val loss 4.006629, mean time per step 1.09s
+step 1500, train loss 3.873752, val loss 3.953243, mean time per step 1.07s
+step 1750, train loss 3.820583, val loss 3.888572, mean time per step 1.07s
+step 2000, train loss 3.781011, val loss 3.992859, mean time per step 1.06s
+step 2250, train loss 3.698492, val loss 3.826713, mean time per step 1.05s
+step 2500, train loss 3.692050, val loss 3.819307, mean time per step 1.05s
+step 2750, train loss 3.634888, val loss 3.610542, mean time per step 1.05s
+step 3000, train loss 3.513387, val loss 3.600958, mean time per step 1.04s
+step 3250, train loss 3.485075, val loss 3.573431, mean time per step 1.04s
+step 3500, train loss 3.365646, val loss 3.480315, mean time per step 1.04s
+step 3750, train loss 3.402878, val loss 3.533723, mean time per step 1.04s
+step 4000, train loss 3.199635, val loss 3.450632, mean time per step 1.04s
+step 4250, train loss 3.243528, val loss 3.341602, mean time per step 1.03s
+step 4500, train loss 3.084080, val loss 3.281741, mean time per step 1.03s
+step 4750, train loss 3.081233, val loss 3.237255, mean time per step 1.03s
+step 5000, train loss 3.015067, val loss 3.149098, mean time per step 1.03s
+step 5250, train loss 2.885879, val loss 3.132750, mean time per step 1.03s
+step 5500, train loss 2.892384, val loss 3.082874, mean time per step 1.03s
+step 5750, train loss 2.840971, val loss 3.122350, mean time per step 1.03s
+step 6000, train loss 2.862099, val loss 3.065052, mean time per step 1.03s
+step 6250, train loss 2.763953, val loss 3.012995, mean time per step 1.03s
+step 6500, train loss 2.708357, val loss 2.952565, mean time per step 1.03s
+step 6750, train loss 2.729366, val loss 2.980536, mean time per step 1.03s
+step 7000, train loss 2.621676, val loss 2.976765, mean time per step 1.02s
+step 7250, train loss 2.719723, val loss 3.018015, mean time per step 1.02s
+step 7500, train loss 2.589920, val loss 2.921576, mean time per step 1.02s
+step 7750, train loss 2.549053, val loss 2.973684, mean time per step 1.02s
+step 8000, train loss 2.609271, val loss 2.858898, mean time per step 1.02s
+step 8250, train loss 2.509921, val loss 2.918006, mean time per step 1.02s
+step 8500, train loss 2.492468, val loss 2.772763, mean time per step 1.02s
+step 8750, train loss 2.492193, val loss 2.876750, mean time per step 1.02s
+step 9000, train loss 2.458610, val loss 2.847177, mean time per step 1.02s
+step 9250, train loss 2.539209, val loss 2.788575, mean time per step 1.02s
+step 9500, train loss 2.441479, val loss 2.840943, mean time per step 1.02s
+step 9750, train loss 2.423074, val loss 2.851840, mean time per step 1.02s
+step 10000, train loss 2.415465, val loss 2.752801, mean time per step 1.02s
+step 10250, train loss 2.325068, val loss 2.838374, mean time per step 1.02s
+step 10500, train loss 2.358743, val loss 2.785964, mean time per step 1.02s
+step 10750, train loss 2.290224, val loss 2.784581, mean time per step 1.02s
+step 11000, train loss 2.370080, val loss 2.819242, mean time per step 1.02s
+step 11250, train loss 2.305944, val loss 2.777105, mean time per step 1.02s
+step 11500, train loss 2.343658, val loss 2.726950, mean time per step 1.02s
+step 11750, train loss 2.291526, val loss 2.790755, mean time per step 1.02s
+step 12000, train loss 2.254728, val loss 2.779808, mean time per step 1.02s
+step 12250, train loss 2.247555, val loss 2.700160, mean time per step 1.02s
+step 12500, train loss 2.199819, val loss 2.651152, mean time per step 1.02s
+step 12750, train loss 2.339387, val loss 2.832347, mean time per step 1.02s
+step 13000, train loss 2.225894, val loss 2.696188, mean time per step 1.02s
+step 13250, train loss 2.270694, val loss 2.719847, mean time per step 1.02s
+step 13500, train loss 2.232171, val loss 2.770610, mean time per step 1.02s
+step 13750, train loss 2.249503, val loss 2.740674, mean time per step 1.02s
+step 14000, train loss 2.220690, val loss 2.737774, mean time per step 1.02s
+step 14250, train loss 2.114765, val loss 2.684470, mean time per step 1.02s
+step 14500, train loss 2.128840, val loss 2.758710, mean time per step 1.02s
+step 14750, train loss 2.156769, val loss 2.684165, mean time per step 1.02s
+step 14999, train loss 2.074249, val loss 2.705990, mean time per step 1.02s
+Training time: 15266.77s
+Batch size: 16
+Block size: 1024
+Max iterations: 15000
+Evaluation interval: 250
+Learning rate: 0.0001
+Device: cuda
+Number of embeddings: 384
+Number of heads: 12
+Number of layers: 12
+Dropout: 0.2
+Number of parameters in millons: 22.442728
+Intial sequence:  [Cartman] Carrots are good for eyesight, but so are other vegetables
+[Cartman] Oh, I'm ginger.
+
+[Jimbo] Kenny, I suppose the itemies here. Why, the hell do you know it, right?
+
+[Scott] Give him a second like money.
+
+[Scene Description] All the second quick concert speaks, and he watches good sits in awe. He quickly prepares to meet her outside her near the wall and braces him and stretch it on the window in his window, then freezes open the window. The window scene turns the breaks through the window, sitting at the hays at an angels] You give it the improble!
+
+[Randy] ...No.
+
+[Scott] That's terrible, please!
+
+[Skeeter] I feel I didn't have those rock-in's rocket, Stan.
+
+[Mr. Garrison] [shead and fends forward to the group to the side door] suspends of me, he's back good.
+
+[Scott] Yeah? I think I think you're here. If you keep playing out with rocket. You can see me as wrap of blood, I'll walk a barfter you, heart.
+
+[Mr. Hat] Sure, uuh, uh... you can say anything to him for all, so I'd have any idea how to suddenly grow up... fast. Thanks out as soon for all why there's aroucal then he can't have a cows.
+
+[Scott] [rises and scrambles a bit] Ooh. But I thought that spooky would have gotten away here.
+
+[Mrs. Garrison] So what I thought of it was a great terrick for the school of the school.
+
+[Scott] Oh, I give you a center whine!
+
+[Scott] There's no thing.
+
+[Scott] All right! Jesus.. Blue Raa oh for him! [S
