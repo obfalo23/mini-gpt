@@ -163,20 +163,34 @@ class RegexTokenizer(Tokenizer):
         self.special_tokens = {}
         self.inverse_special_tokens = {}
 
-    def train(self, text, vocab_size, verbose=False):
+    def train(self, text, vocab_size, load=False, verbose=False):
         assert vocab_size >= 256
         num_merges = vocab_size - 256
 
-        # split the text up into text chunks
-        text_chunks = re.findall(self.compiled_pattern, text)
-        print(f"Number of chunks: {len(text_chunks)}")
-        # input text preprocessing
-        ids = [list(ch.encode("utf-8")) for ch in text_chunks]
-        print(ids[:10]) # print first 10 chunks
-       
-        merges = {} # (int, int) -> int
-        vocab = {idx: bytes([idx]) for idx in range(256)} # idx -> bytes
-        for i in range(num_merges):
+
+        if load:
+            merges = self.merges
+            merge_counter = len(merges)
+            vocab = self.vocab
+
+            text_chunks = re.findall(self.compiled_pattern, text)
+            print(f"Number of chunks: {len(text_chunks)}")
+            # input text preprocessing
+            ids = [list(ch.encode("utf-8")) for ch in text_chunks]
+            print(ids[:10]) # print first 10 chunks
+        else:
+            # split the text up into text chunks
+            text_chunks = re.findall(self.compiled_pattern, text)
+            print(f"Number of chunks: {len(text_chunks)}")
+            # input text preprocessing
+            ids = [list(ch.encode("utf-8")) for ch in text_chunks]
+            print(ids[:10]) # print first 10 chunks
+
+            merges = {} # (int, int) -> int
+            merge_counter = 0
+            vocab = {idx: bytes([idx]) for idx in range(256)} # idx -> bytes
+            
+        for i in range(merge_counter, num_merges):
             # count the number of times every consecutive pair appears
             stats = {}
             for chunk_ids in ids:
@@ -304,9 +318,14 @@ if __name__ == "__main__":
 
     # construct the Tokenizer object and kick off verbose training
     tokenizer =  RegexTokenizer()
-    tokenizer.train(text, vocab_size = 256, verbose=True)
+    LOAD_AND_CONTINUE = True
+    if LOAD_AND_CONTINUE:
+        # load the model from disk and continue training
+        tokenizer.load("tokenizer_models/soutpark_tokenizer_5000.model")
+    vocab_size = 10000
+    tokenizer.train(text, vocab_size = vocab_size, load=LOAD_AND_CONTINUE,verbose=True)
     # writes two files in the models directory: name.model, and name.vocab
-    prefix = os.path.join("tokenizer_models", "soutpark_tokenizer")
+    prefix = os.path.join("tokenizer_models", "soutpark_tokenizer_" + str(vocab_size))
     print(f"Saving tokenizer to {prefix}.model and {prefix}.vocab")
 
     # Test the tokenizer on some text
