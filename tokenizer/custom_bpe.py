@@ -304,9 +304,10 @@ if __name__ == "__main__":
 
     # construct the Tokenizer object and kick off verbose training
     tokenizer =  RegexTokenizer()
-    tokenizer.train(text, vocab_size = 256, verbose=True)
+    vocab_size = 10000
+    tokenizer.train(text, vocab_size = vocab_size, verbose=True)
     # writes two files in the models directory: name.model, and name.vocab
-    prefix = os.path.join("tokenizer_models", "soutpark_tokenizer")
+    prefix = os.path.join("tokenizer_models", "soutpark_tokenizer_" + str(vocab_size))
     print(f"Saving tokenizer to {prefix}.model and {prefix}.vocab")
 
     # Test the tokenizer on some text
